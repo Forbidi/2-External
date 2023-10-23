@@ -27,7 +27,8 @@ https://github.com/Forbidi/LostLight-External/assets/29312029/9f6fef09-19c7-4af4
 
 
 
-## Example How to Use
+## Download:
+The latest version can be downloaded [here](https://github.com/Forbidi/LostLight-External/releases/latest/download/LostLight_Release.zip).
 
 
 ## Discord
