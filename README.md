@@ -25,10 +25,5 @@ Fly
 https://github.com/Forbidi/LostLight-External/assets/29312029/9f6fef09-19c7-4af4-9072-ac068bca00f4
 
 
-
-## Download:
-The latest version can be downloaded [here](https://github.com/Forbidi/LostLight-External/releases/latest/download/Loader.zip).
-
-
 ## Discord
 https://discord.gg/pQZYd8sGqF
