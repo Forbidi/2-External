@@ -25,5 +25,9 @@ Fly
 https://github.com/Forbidi/LostLight-External/assets/29312029/9f6fef09-19c7-4af4-9072-ac068bca00f4
 
 
+https://github.com/Forbidi/LostLight-External/assets/29312029/1c500737-4e3a-4be7-89af-7a431b075b4a
+
+
+
 ## Discord
 https://discord.gg/pQZYd8sGqF
