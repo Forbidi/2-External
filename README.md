@@ -7,7 +7,8 @@
 
 ## Features
 ```fix
-Stream Proof
+Stream Proof always defect
+Dissable killcam Report always defect
 Bypass
 Wallhack
 Speedhack
