@@ -30,4 +30,4 @@ https://github.com/Forbidi/LostLight-External/assets/29312029/1c500737-4e3a-4be7
 
 
 ## Discord
-https://discord.gg/pQZYd8sGqF
+[Join our Discord community](https://discord.gg/pQZYd8sGqF)
