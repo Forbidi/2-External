@@ -2,7 +2,7 @@
 | LostLight | Private External | Aimbot | ESP | TriggerBot | Stream Proof | Undetected |
 
 [![Discord](https://img.shields.io/discord/972965077496000552)](https://discord.gg/pQZYd8sGqF)
-![Version](https://img.shields.io/badge/version-1.3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-1.8.1-blue.svg)
 
 ## Features
 
